@@ -5,4 +5,4 @@ I wonder what this would show on my project?
 
 Added this line here.
 
-Close issue 3 (#5)
+This branch will Close issue 3 (#5)
